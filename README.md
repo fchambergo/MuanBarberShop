@@ -1,22 +1,9 @@
-
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
-
-
-Welcome to your Node.js project on Cloud9 IDE!
-
-This chat example showcases how to use `socket.io` with a static `express` server.
-
-## Running the server
-
-1) Open `server.js` and start the app by clicking on the "Run" button in the top menu.
-
-2) Alternatively you can launch the app from the Terminal:
-
-    $ node server.js
-
-Once the server is running, open the project in the shape of 'https://projectname-username.c9users.io/'. As you enter your name, watch the Users list (on the left) update. Once you press Enter or Send, the message is shared with all connected clients.
+This is a Front-End Development project for a local barber shop in my neighborhood. All accessible and necessary information for clients has been included.
+This site was created using the following:
+     -HTML
+     -CSS (Bootstrap 4)
+     -Javascipt (JQuery)
+     -Express.js
+     -Node.js
+    
+Wireframes and design were made in Adobe XD:
